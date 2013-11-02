@@ -1,0 +1,6 @@
+pwd
+ls > file.txt
+cd
+pwd > file.txt
+ls -l
+ls
